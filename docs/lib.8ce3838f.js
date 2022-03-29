@@ -29,4 +29,4 @@ var t=document.createElement("div");t.style.position="fixed",t.style.top="0",t.s
 },{"../Core/Math/Matrix":"cCND","../Core/Math/Vector":"SqR3"}],"E7Wx":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.main=u,require("./dev");var e=t(require("./OverlayEditor")),r=t(require("./Subject/ImageSubject"));function t(e){return e&&e.__esModule?e:{default:e}}function u(){var t=document.querySelector(".preview"),u=new r.default;new e.default(t,u)}
 },{"./dev":"vqNL","./OverlayEditor":"ESQc","./Subject/ImageSubject":"Kc4j"}]},{},["E7Wx"], "application")
-//# sourceMappingURL=/prototype--visual-layer-editor/lib.93bfb19a.js.map
+//# sourceMappingURL=/picture-in-picture-editor/lib.8ce3838f.js.map
